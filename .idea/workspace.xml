@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="637ade9e-15f8-4fe5-a0d4-397a0c778e5e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/1.Greedy/1-4. 모험가 길드.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.Greedy/1-3 곱하기 혹은 더하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.Greedy/1-3 곱하기 혹은 더하기.py" afterDir="false" />
+    <list default="true" id="637ade9e-15f8-4fe5-a0d4-397a0c778e5e" name="Changes" comment="1이 될 때까지 Done">
+      <change beforePath="$PROJECT_DIR$/1.Greedy/1-4. 모험가 길드.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.Greedy/1-4. 모험가 길드.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -219,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646214922894</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="모험가 길드 done">
+      <created>1646216166158</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1646216166158</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -241,6 +246,7 @@
     <MESSAGE value="중간 저장" />
     <MESSAGE value="1이 될 때까지 Done" />
     <MESSAGE value="곱하기 혹은 더하기 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="곱하기 혹은 더하기 done" />
+    <MESSAGE value="모험가 길드 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="모험가 길드 done" />
   </component>
 </project>

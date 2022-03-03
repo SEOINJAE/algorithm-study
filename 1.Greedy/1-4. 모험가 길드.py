@@ -11,7 +11,7 @@
 2 3 1 2 2
 
 출력예시: 2
-"""
+"""ß
 
 # n = int(input()) #필요 없음
 data = list(map(int, input().split()))
