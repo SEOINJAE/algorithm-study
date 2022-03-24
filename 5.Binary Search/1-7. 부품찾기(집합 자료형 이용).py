@@ -17,6 +17,7 @@ n = int(input())
 
 # 가게에 있는 전체 부품 번호를 입력받아서 집합(set) 자료형에 기록
 array = set(map(int, input().split()))
+print(array)
 
 # M(손님이 확인 요창한 부품 개수)을 입력받기
 m = int(input())
@@ -31,3 +32,4 @@ for i in x:
         print('yes', end= ' ')
     else:
         print('no', end=' ')
+
