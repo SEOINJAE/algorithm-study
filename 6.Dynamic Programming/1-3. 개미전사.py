@@ -31,3 +31,4 @@ for i in range(2, n):
 
 # 계산된 결과 출력
 print('최종 결과 : ', d[n - 1])
+
