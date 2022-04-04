@@ -70,3 +70,5 @@ for i in range(1, n+1):
     # 도달 할 수 있는 경우 거리를 출력
     else:
         print(distance[i])
+
+print('savepoint')
