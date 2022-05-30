@@ -122,3 +122,59 @@ remove_set = {3, 5}
 result = [i for i in a if i not in remove_set]
 print(result)
 
+
+
+data = dict()
+data['사과'] = 'Apple'
+data['바나나'] = 'Banana'
+data['코코넛'] = 'Coconut'
+
+data
+
+# 키 데이터만 담은 리스트
+key_list = data.keys()
+
+print(key_list)
+
+# 값 데이터만 담은 리스트
+value_list = data.values()
+
+value_list
+
+print(value_list)
+
+for key in key_list:
+    print(data[key])
+
+
+data = set([1,1,2,3,4,4,5])
+
+print(data)
+
+data = {1, 1, 2, 3, 4, 4, 5}
+
+print(data)
+
+
+a = 0
+
+def func():
+    global a
+    a += 1
+
+for i in range(10):
+    print(func())
+    print(a)
+
+print(a)
+
+
+def add(a, b):
+    return a + b
+
+print(add(3, 7)
+
+
+
+print((lambda c, d: c + d)(3, 7))
+
